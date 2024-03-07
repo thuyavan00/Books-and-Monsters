@@ -28,3 +28,11 @@ Welcome to the magical world of "Books and Monsters," where books hold immense p
   ![Main](images\img2.png)
   ![Main](images\img3.png)
   ![Main](images\img4.png)
+
+**Note:**
+This project was completed as part of a group project for CS9541 - Game Design. Credit goes to the talented group members:
+
+- Sundin Nguyen
+- Matt Baker
+- Thuyavan
+- Nashita Shaik
